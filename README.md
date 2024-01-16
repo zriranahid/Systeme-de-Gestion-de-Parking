@@ -6,12 +6,12 @@ Le but principal de ce projet est de concevoir et mettre en œuvre un système a
 
 
 
-Fonctionnalités Principales :
+## Fonctionnalités Principales :
 
 Détection de Présence : Utiliser des capteurs adaptés pour détecter la présence d'une voiture à proximité de la barrière du parking.
 Communication Arduino : Établir une communication efficace entre les capteurs et la carte Arduino pour recevoir les informations de détection.
 Contrôle de la Barrière : Mettre en œuvre un mécanisme de contrôle de la barrière, permettant son ouverture lorsque la présence d'une voiture est détectée.
 Sécurité Intégrée : Intégrer des mécanismes de sécurité pour éviter les ouvertures non autorisées de la barrière.
 
-Utilisation Prévue :
+## Utilisation Prévue :
 Ce système de gestion de parking automatisé peut être mis en œuvre dans divers contextes tels que les parkings d'entreprises, les centres commerciaux, les hôpitaux, etc., pour simplifier et accélérer le processus d'accès des véhicules.
